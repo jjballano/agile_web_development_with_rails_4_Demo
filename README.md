@@ -1,1 +1,1 @@
-# agile_web_development_with_rails_4_Demo
+This project is just the Agile web development with Rails 4 book example. I'm doing it while reading the book.
